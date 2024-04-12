@@ -1,0 +1,22 @@
+.consul h1{
+    color: rgb(136, 43, 43);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.consul .para-one{
+    font-size: 23px;
+}
+
+.para{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+span,.this-amout{
+    color:rgb(174, 172, 172);
+}
+
+
+.lllabel{
+    color: black;
+    font-size: 17px;
+}

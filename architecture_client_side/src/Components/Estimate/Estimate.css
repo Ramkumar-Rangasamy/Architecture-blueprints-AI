@@ -1,0 +1,30 @@
+.first-division{
+    background-color:white;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+.secound-division{
+    background-color: rgba(0, 0, 0, 0.6);
+   
+}
+.formdiv{
+    background-color:aqua;
+    margin:134px;
+    
+}
+.inner-form{
+    background-color: rgb(10, 1, 3);
+    padding: 30px;
+    
+}
+.estm-btn{
+   padding: 20px;
+}
+
+.door{ 
+    font-style: oblique;
+    font-size: 20px;
+    font-weight:normal;
+}
+

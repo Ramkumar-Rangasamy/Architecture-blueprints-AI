@@ -1,0 +1,101 @@
+
+.breadcrumbs-admin nav {
+    background-color: #d4d6db;
+    padding: 20px 0;
+  }
+  
+.breadcrumbs-admin nav ol {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    font-weight: 600;
+}
+  
+.breadcrumbs-admin nav ol a {
+    color: blue;
+    transition: 0.3s;
+}
+  
+.breadcrumbs-admin nav ol a:hover {
+    text-decoration: underline;
+}
+  
+.breadcrumbs-admin nav ol li + li {
+    padding-left: 10px;
+}
+  
+.breadcrumbs-admin nav ol li + li::before {
+    display: inline-block;
+    padding-right: 10px;
+    color: #4278cc;
+    content: "/";
+}
+
+
+.Auth-form-container{
+    background-image: url('../Assets/signup.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+  }
+  
+  .Auth-form {
+    box-shadow: rgb(0 0 0 / 20%) 1px 1px 10px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    border-radius: 8px;
+    background-color:rgba(14, 29, 52, 0.626);
+   
+  }
+  
+.Auth-form-content {
+    padding-left: 12%;
+    padding-right: 12%;
+  }
+  
+.Auth-form-title{
+    text-align: center;
+    font-size: 24px;
+    color:white;
+    font-weight: 800;
+  }
+  
+label {
+    font-size: 14px;
+    font-weight: 600;
+    color: white;
+}
+
+h2{
+    color: rgb(34, 34, 34);
+    font-size: 30px;
+    font-weight: 800;
+    padding:10px;
+    
+}
+
+.auth_login{
+  margin-top:225px;
+}
+.atag{
+  color: #d4d6db;
+  text-decoration:underline;
+}
+
+
+ 
+  
+  
+
+
+
+
+
+
+

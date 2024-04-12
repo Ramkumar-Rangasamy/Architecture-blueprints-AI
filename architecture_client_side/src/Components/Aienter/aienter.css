@@ -1,0 +1,21 @@
+
+.start-interfacr{
+    background-image:url('../Assets/signup.jpg');
+    background-repeat: no-repeat;
+    background-size: cover; 
+    color: white;
+  }
+  
+
+h1,h4{
+  font-weight: bold;
+}
+
+.colorbutton{
+  background-image: linear-gradient(to right, rgb(27,19,9), rgb(255,0,0,1));
+  border: none;
+  padding: 10px;
+  color: white;
+  font-weight: bold;
+  border-radius: 5px;
+}

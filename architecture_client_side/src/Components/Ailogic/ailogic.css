@@ -1,0 +1,30 @@
+.aliogic{
+    background-color: black;
+
+}
+.enter_ailogic{
+    width:200px;
+    height: 200px;
+    cursor: pointer;
+    text-align: center;
+    color: #fff;
+    border-radius: 10px;
+    border: 5px solid  green;
+    font-weight: bold;
+    font-size: 20px;
+    text-transform: capitalize;
+}
+
+
+.form-ailogic{
+    background-color: rgb(5, 31, 58);
+    color:white;
+    font-weight: bold;
+    
+}
+
+.label-ailogic{
+    color: white;
+    padding:5px;
+}
+

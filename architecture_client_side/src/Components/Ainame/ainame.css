@@ -1,0 +1,28 @@
+.enter_header{
+    background-color: black;
+}
+.enter_frist h4{
+    color: #fff;
+    padding: 50px;
+}
+
+.enter_project{
+    width:200px;
+    height: 200px;
+    cursor: pointer;
+    text-align: center;
+    color: #fff;
+    border-radius: 10px;
+    border: 2px dashed white;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.enter_project  button{
+    font-style:oblique;
+    font-weight: bold;
+}
+
+.font{
+    font-size: 25px;
+}
